@@ -45,5 +45,7 @@ DOMAIN-SUFFIX,uutupian.com
 DOMAIN-SUFFIX,xsnvshen.com
 DOMAIN-SUFFIX,shuangxiugu.com
 DOMAIN-SUFFIX,wn4k.com
+DOMAIN-SUFFIX,anti-ad.net
+#IP
 IP-CIDR,8.209.68.221/32,Proxy,no-resolve
 IP-CIDR,8.209.112.20/32,Proxy,no-resolve
