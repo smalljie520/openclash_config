@@ -1,0 +1,3 @@
+#直连
+DOMAIN-SUFFIX,imgfor80.me
+DOMAIN-SUFFIX,shuangxiugu.com
